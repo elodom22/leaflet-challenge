@@ -1,18 +1,9 @@
 # leaflet-challenge
 ## Earthquake Data Visualization
-### Overview
-The United States Geological Survey (USGS) is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data.\
-The objective for this project was development of an interactive map that would gather and plot 7-days of USGS earthquake data in realtion to earthquake location, magnitude, and depth. The interactive map in particular, showcases tectonic plate outlines and allows the user to select regional specific markers detailing seismic activity data.
+This challenge focuses on visualizing earthquake data collected by the United States Geological Survey (USGS). The goal is to create an interactive map using Leaflet.js that plots earthquake locations based on their longitude and latitude. The visualization will represent earthquake magnitude through marker size and depth through color intensity. Users can click on markers to view additional details, and a legend will provide context for the data. This project helps USGS better communicate seismic activity to the public and government agencies, supporting education and funding efforts.
 
 ### Technology Utilized
 CSS\
 HTML\
 JavaScript\
 Leaflet
-
-### Resources
-Group work\
-Class assignments\
-Google AI\
-Microsoft Co-pilot\
-Stackoverflow
